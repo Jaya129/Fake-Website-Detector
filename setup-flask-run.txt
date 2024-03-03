@@ -1,0 +1,6 @@
+On Powershell :
+$env:FLASK_APP = "main.py"
+
+Debug mode :
+$env:FLASK_DEBUG = 1
+
